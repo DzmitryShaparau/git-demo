@@ -1,9 +1,7 @@
--start-
-
-sword and spear
-wall of shields
-standing strong
-on this their chosen battle field
+Sword and spear
+Wall of shields
+Standing strong
+On this their chosen battle field
 
 From the lines
 Shild by shild
@@ -16,4 +14,3 @@ Don't look back
 Oden's sons
 Attack!
 
--finish-
