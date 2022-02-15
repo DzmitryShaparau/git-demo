@@ -1,0 +1,53 @@
+[33mcommit 85efc30fba76dfaae9253d2b1ba5147f79c910a9[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: DzmitryShaparau <7353602@gmail.com>
+Date:   Mon Feb 14 14:05:31 2022 +0300
+
+    Revert "Revert "finish part""
+    
+    This reverts commit e3a89047ff756b1e8e2bfd573bb9ef63fda1d402.
+
+[33mcommit e3a89047ff756b1e8e2bfd573bb9ef63fda1d402[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: DzmitryShaparau <7353602@gmail.com>
+Date:   Mon Feb 14 12:36:05 2022 +0300
+
+    Revert "finish part"
+    
+    This reverts commit 0d22a394da61d78dfdaa17fbe04b37d7357b545c.
+    I'm sorry!
+    !# Please enter the commit message for your changes. Lines starting
+
+[33mcommit 0d22a394da61d78dfdaa17fbe04b37d7357b545c[m
+Author: DzmitryShaparau <7353602@gmail.com>
+Date:   Mon Feb 14 12:32:53 2022 +0300
+
+    finish part
+
+[33mcommit 4f53bd2507fa35e4edf3bf6b234e5f2024d447f3[m
+Author: DzmitryShaparau <7353602@gmail.com>
+Date:   Mon Feb 14 09:55:52 2022 +0300
+
+    add two lines to my song
+
+[33mcommit b6ff295232df7ab41f393a818e6d944ad5bcf96b[m
+Author: DZMITRY SHAPARAU <99634617+DzmitryShaparau@users.noreply.github.com>
+Date:   Mon Feb 14 09:38:17 2022 +0300
+
+    add start and finish
+
+[33mcommit ae39e06d34cc3a17124337529515470d03e39cd4[m
+Author: DZMITRY SHAPARAU <99634617+DzmitryShaparau@users.noreply.github.com>
+Date:   Mon Feb 14 09:32:37 2022 +0300
+
+    add two more ;ines to the song
+
+[33mcommit ca79c1ab67d90467ff2746ca3a96c72805d6085a[m
+Author: DzmitryShaparau <7353602@gmail.com>
+Date:   Mon Feb 14 09:12:53 2022 +0300
+
+    add first 2 lines in the song
+
+[33mcommit b377714459b34baf923cdcec74018b14626c5458[m
+Author: DZMITRY SHAPARAU <99634617+DzmitryShaparau@users.noreply.github.com>
+Date:   Mon Feb 14 08:57:24 2022 +0300
+
+    Initial commit
